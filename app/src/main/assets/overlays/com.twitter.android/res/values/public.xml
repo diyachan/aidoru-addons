@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="color" name="twitter_blue" id="0x7f020000" />
+    <public type="color" name="text_blue" id="0x7f020001" />
+    <public type="color" name="deep_gray" id="0x7f020002" />
+    <public type="color" name="faded_gray" id="0x7f020003" />
+    <public type="color" name="speech_bubble" id="0x7f020004" />
+</resources>
