@@ -1,7 +1,7 @@
 # aidoru-addons
 "Because I shit at naming things"
 
-Small overlays for a pretty small selection of apps
+Small substratum overlays for a pretty small selection of apps
 
 ## What's 'themed'?
 
