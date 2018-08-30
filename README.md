@@ -9,4 +9,3 @@ Small substratum overlays for a pretty small selection of apps
 - Calculator (accent only, syncs with system accent)
 - Twitter (accent only, syncs with system accent)
 - [Starlight Stage](https://play.google.com/store/apps/details?id=jp.co.bandainamcoent.BNEI0242) (App and notification icon)
-- [Princess Connect Re:dive](https://play.google.com/store/apps/details?id=jp.co.cygames.princessconnectredive) (App icon only)
